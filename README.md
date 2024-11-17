@@ -1,0 +1,2 @@
+# -Dashboard-for-Analyzing-Healthy-Marriage-Program-Performance
+The Healthy Marriage Report for the Ministry of Health for the year 1445 AH provides a comprehensive analysis of the program's performance, including the number of examinations, compatibility and non-compatibility cases, and the number of beneficiaries, with a geographical distribution reflecting coverage across various regions of the Kingdom.
